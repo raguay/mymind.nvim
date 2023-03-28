@@ -1,12 +1,4 @@
-# Deprecation and archive notice
-
-This project is now deprecated. I decided that having so many great features in a single editor is not the right way to
-write software, and I wanted to do something different outside of Neovim. There are many other Neovim Lua plugin 
-alternatives out there.
-
-Thanks for having used `mind.nvim`!
-
-<h1 align="center">mind.nvim</h1>
+<h1 align="center">mymind.nvim</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/506592/185793543-e12baf93-8329-4e3b-96d2-da38547691ee.png"/>
